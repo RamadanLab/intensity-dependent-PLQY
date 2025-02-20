@@ -19,3 +19,9 @@ Within the folders the data should be saved with these file names:
 
 
 I plan to update this in the future so that the file names can be more flexible. 
+
+
+## Updated 20/02/25:
+- Now also outpus the spectra files at each intensity in a dataframe.
+- Updated plotting section to add multiple samples into one subplot
+- Separate section to plot spectras at each intensity with a colormap
